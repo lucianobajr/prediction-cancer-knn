@@ -1,5 +1,7 @@
 # prediction-cancer-knn
 
+
+
 ## Dataset
 
 [Cancer Data](https://www.kaggle.com/datasets/erdemtaha/cancer-data)
@@ -23,3 +25,5 @@ Cada um desses recursos é mapeado para uma tabela contendo o número de valores
 Cada amostra contém o ID exclusivo do paciente, o diagnóstico de câncer e os valores médios das características visuais do câncer.
 
 ---
+
+- Ambientes de Computação - Mestrado UFMG
